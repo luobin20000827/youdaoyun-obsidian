@@ -2,6 +2,9 @@
 created: 2024-07-02
 updated: 2024-07-11
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - SSM
 ---
 
 # 1. MVC回顾
@@ -135,3 +138,8 @@ public class ControllerTest1 implements Controller {
     - preHandle：处理器执行之前执行，如果返回 false 将跳过处理器、拦截器 postHandle 方法、视图渲染等，直接执行拦截器 afterCompletion 方法。
     - postHandle：处理器执行后，视图渲染前执行，如果处理器抛出异常，将跳过该方法直接执行拦截器 afterCompletion 方法。
     - afterCompletion：视图渲染后执行，不管处理器是否抛出异常，该方法都将执行。
+
+## 相关笔记
+所属索引：[[SSM-MOC]]
+- [[Spirng]] — IoC 与 AOP 基础
+- [[MyBatis]] — 持久层框架

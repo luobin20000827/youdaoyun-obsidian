@@ -2,6 +2,9 @@
 created: 2024-07-17
 updated: 2024-07-27
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - SpringBoot
 ---
 
 ## 1.SpringBoot的特点
@@ -86,3 +89,8 @@ k:
  - v2
  - v3
 ```
+
+## 相关笔记
+所属索引：[[SpringBoot-MOC]]
+- [[Spring事务]] — 事务专题
+- [[Spirng]] — Spring 基础

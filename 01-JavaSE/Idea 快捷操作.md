@@ -2,6 +2,10 @@
 created: 2024-02-18
 updated: 2024-03-12
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - Java
+  - IDEA
 ---
 
 ## Idea 快捷操作
@@ -26,3 +30,8 @@ source: 有道云笔记迁移
 - step into or step out
 - programme resume
 - 条件断点
+
+## 相关笔记
+所属索引：[[JavaSE-MOC]]
+- [[第四章-IDEA的安装使用]] — IDEA 安装与配置
+- [[idea使用以及demo项目的启动]] — 长亮环境与项目启动

@@ -2,6 +2,9 @@
 created: 2024-03-27
 updated: 2024-04-03
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - Java
 ---
 
 # 第九章-常用类和基本API
@@ -193,3 +196,6 @@ public void test01() {
     - BigDecimal，取代double和float表示任意精度的浮点数
 - java.util.Random：产生随机数
 
+
+## 相关笔记
+所属索引：[[JavaSE-MOC]]

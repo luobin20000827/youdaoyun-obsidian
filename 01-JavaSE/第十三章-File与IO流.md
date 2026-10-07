@@ -2,6 +2,9 @@
 created: 2024-04-12
 updated: 2024-04-19
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - Java
 ---
 
 # 第十三章-File类与IO流
@@ -377,3 +380,6 @@ BufferedWriter bufw = new BufferedWriter(new OutputStreamWriter(System.out));
 - PrintStream和PrintWriter，前者是字节流，是FilterOutputStream的子类，为字节流；后者则是Writer的子类，为字符流
 - ![image](https://github.com/luobin7/-java-/raw/bbd4d91bc59c57ac62d01c8d6b08b12871ec0072/%E7%AC%AC15%E7%AB%A0_File%E7%B1%BB%E4%B8%8EIO%E6%B5%81/images/image-20220131021502089.png)
 - 他们的主要作用就是与重定向一起使用，从而更快捷的通过print指令来将内容输出到指定的文件中
+
+## 相关笔记
+所属索引：[[JavaSE-MOC]]

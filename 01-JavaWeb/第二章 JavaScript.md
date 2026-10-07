@@ -2,6 +2,9 @@
 created: 2024-05-13
 updated: 2024-05-20
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - JavaWeb
 ---
 
 # 1.JS简介
@@ -449,3 +452,6 @@ for(var i = 0; i < resultArr.length; i++){
     - 用户名：	`/^[a-zA-Z ][a-zA-Z-0-9]{5,9}$/`
     - 密码：`/^[a-zA-Z0-9 _-@#& *]{6,12}$/`
     - 电子邮箱：`/^[a-zA-Z0-9 _.-]+@([a-zA-Z0-9-]+[.]{1})+[a-zA-Z]+$/`
+
+## 相关笔记
+所属索引：[[JavaWeb-MOC]]

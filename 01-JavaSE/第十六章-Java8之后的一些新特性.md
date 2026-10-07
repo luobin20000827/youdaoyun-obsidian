@@ -2,6 +2,9 @@
 created: 2024-04-24
 updated: 2024-04-30
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - Java
 ---
 
 # 第十六章-Java8新特性
@@ -531,3 +534,6 @@ public class SwitchTest2 {
 - String stripLeading()
 - String repeat(int n):一个字符串复制n遍 Java -> JavaJavaJava
 - int lines().count() 行数统计
+
+## 相关笔记
+所属索引：[[JavaSE-MOC]]

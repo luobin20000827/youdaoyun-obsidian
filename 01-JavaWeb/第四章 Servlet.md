@@ -2,6 +2,9 @@
 created: 2024-05-20
 updated: 2024-05-29
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - JavaWeb
 ---
 
 # 第四章 Servlet
@@ -289,3 +292,6 @@ public class ServletA extends HttpServlet {
     - 数据库字段名
     - 引用数据类型的对比用equals()而不用==
 
+
+## 相关笔记
+所属索引：[[JavaWeb-MOC]]

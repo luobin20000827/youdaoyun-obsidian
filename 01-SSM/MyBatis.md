@@ -2,6 +2,10 @@
 created: 2024-06-03
 updated: 2024-06-20
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - SSM
+  - MyBatis
 ---
 
 ## 1. 什么是MyBatis
@@ -322,3 +326,8 @@ public interface SysUserMapper {
   readOnly="true"/>
 这个更高级的配置创建了一个 FIFO 缓存，每隔 60 秒刷新，最多可以存储结果对象或列表的 512 个引用，而且返回的对象被认为是只读的，因此对它们进行修改可能会在不同线程中的调用者产生冲突。
 ```
+
+## 相关笔记
+所属索引：[[SSM-MOC]]
+- [[JDBC]] — 底层原理：原生 JDBC
+- [[Spirng]] — 整合 Spring

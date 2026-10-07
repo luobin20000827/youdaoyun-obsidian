@@ -2,6 +2,10 @@
 created: 2024-07-20
 updated: 2024-09-11
 source: 有道云笔记迁移
+tags:
+  - 运维
+  - Docker
+  - WSL
 ---
 
 ## 8.26
@@ -33,3 +37,7 @@ source: 有道云笔记迁移
 ## 9.8 
 - wsl2是看靠前的eth来看究竟哪个是wsl主机的ip，而且一般永远可以通过默认的端口映射来在localhost上访问：redmi上对应eth2
 - nacos 黑马项目pom里面的配置有问题
+
+## 相关笔记
+所属索引：[[Linux-MOC]]
+- [[Nexus部署]] — Nexus 容器化部署

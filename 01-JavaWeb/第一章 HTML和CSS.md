@@ -2,6 +2,9 @@
 created: 2024-05-11
 updated: 2024-05-20
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - JavaWeb
 ---
 
 # 前端概述
@@ -359,3 +362,6 @@ input {
 ## 3.5 CSS盒子模型
 - CSS盒模型本质上是一个盒子，封装周围的HTML元素，它包括：边距（margin），边框（border），填充（padding），和实际内容（content）
 ![image](https://github.com/luobin7/atguigu-javaweb/raw/main/images/1681262535006.png)
+
+## 相关笔记
+所属索引：[[JavaWeb-MOC]]

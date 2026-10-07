@@ -2,6 +2,9 @@
 created: 2024-06-06
 updated: 2024-07-09
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - SSM
 ---
 
 # 1.Spring简介
@@ -488,3 +491,9 @@ public class UserService {
     
 
 
+
+## 相关笔记
+所属索引：[[SSM-MOC]]
+- [[Spring-MVC]] — Web 层框架
+- [[MyBatis]] — 持久层框架
+- [[Spring事务]] — 事务专题

@@ -2,6 +2,11 @@
 created: 2024-09-20
 updated: 2024-09-20
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - JavaWeb
+  - IDEA
+  - 踩坑
 ---
 
 # 3.IDEA使用
@@ -58,3 +63,9 @@ git pull
 - 对应三个交易的测试的报文格式在`demo-tran`模块下`报文`文件夹查看，复制对应报文内容在postman或`demo-trans`模块下`resource`文件夹下服务编排对应xml中的接口测试模块中发起请求测试。
     - 或使用群里的postman请求模板
 
+
+## 相关笔记
+所属索引：[[JavaWeb-MOC]]
+- [[Idea 快捷操作]] — 快捷键速查
+- [[Maven]] — 构建与依赖管理
+- [[代码提交与jenkins发布]] — 提交与发布流程

@@ -2,6 +2,10 @@
 created: 2024-05-09
 updated: 2024-09-18
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - JavaWeb
+  - Maven
 ---
 
 # 第一章 Maven概述
@@ -82,3 +86,8 @@ source: 有道云笔记迁移
 - deploy在install基础上还将jar包部署到远端的nexus-maven仓库中
 - maven鉴于他的一个反应堆机制，如果你引用了一个本地模块，他优先是去项目代码中依赖，其次是本地仓库中，再次是远程仓库中。
     
+
+## 相关笔记
+所属索引：[[JavaWeb-MOC]]
+- [[SpringBoot]] — SpringBoot 依赖管理
+- [[idea使用以及demo项目的启动]] — 长亮环境与项目启动

@@ -2,6 +2,9 @@
 created: 2024-02-01
 updated: 2024-02-02
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - Java
 ---
 
 # 第一章：Java概述
@@ -88,3 +91,6 @@ javadoc -encoding utf-8 -d your_doc_name -author -version HelloWorld.java
 ## 6.JVM
 * 跨平台( **Write once , Run Anywhere** )
 * 自动内存管理
+
+## 相关笔记
+所属索引：[[JavaSE-MOC]]

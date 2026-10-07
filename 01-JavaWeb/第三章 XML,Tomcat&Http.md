@@ -2,6 +2,9 @@
 created: 2024-05-17
 updated: 2024-05-21
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - JavaWeb
 ---
 
 # 第三章 XML,Tomcat & Http
@@ -51,3 +54,6 @@ source: 有道云笔记迁移
     - 没有添加指定的webapp为web包（小蓝点）
     - 大的project下面创建好几个webapps（删光src，然后新建module时选择maven-webapp骨架）
     - java运行版本不对，这个可以去pom文件里加，或者在setting里面的javacompiler里面改
+
+## 相关笔记
+所属索引：[[JavaWeb-MOC]]

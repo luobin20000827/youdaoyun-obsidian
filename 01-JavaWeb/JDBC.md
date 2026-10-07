@@ -2,6 +2,9 @@
 created: 2024-05-06
 updated: 2024-05-24
 source: 有道云笔记迁移
+tags:
+  - 学习笔记
+  - JavaWeb
 ---
 
 # 第一章 什么是JDBC
@@ -281,3 +284,8 @@ InputStream is = ClassLoader.getSystemClassLoader().getResourceAsStream("config.
 - DQL操作查询executeQuery()的设计比较特别
     - 由于设计时不知道数据类型，需要从传入侧获得，因此我们需要一个泛型参数 Class<T> clazz来获取数据类型，返回值则设计为<T> List<T>
     - 最后的结果中需要用反射与metadata来将数据库返回的数据转化为我们的实体类（行（for循环）-列（getDeclaredXXX）-解析出数据填充进我们反射拿到的newInstance）
+
+## 相关笔记
+所属索引：[[JavaWeb-MOC]]
+- [[MyBatis]] — JDBC 的框架化封装
+- [[Maven]] — 驱动依赖管理
