@@ -1,0 +1,4 @@
+# 工作区状态文件:每台设备各自维护,入库会导致多端同步冲突
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.DS_Store
